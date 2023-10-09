@@ -1,0 +1,27 @@
+,GoalLocation,Shots,Club,What
+0,low-centre,38,Bayern München,centre
+1,low-left,21,Bayern München,left
+2,low-right,10,Bayern München,right
+3,left,7,Bayern München,left
+4,high-centre,6,Bayern München,centre
+5,high-left,5,Bayern München,left
+6,high,5,Bayern München,high
+7,close-left,4,Bayern München,left
+8,close-right,3,Bayern München,right
+9,close-high,3,Bayern München,high
+10,right,3,Bayern München,right
+11,close-high-left,2,Bayern München,left
+12,close-high-right,1,Bayern München,right
+13,high-right,1,Bayern München,right
+0,low-centre,25,Manchester City,centre
+1,low-left,21,Manchester City,left
+2,low-right,10,Manchester City,right
+3,right,8,Manchester City,right
+4,high-left,7,Manchester City,left
+5,high,7,Manchester City,high
+6,close-right,5,Manchester City,right
+7,high-centre,5,Manchester City,centre
+8,left,2,Manchester City,left
+9,high-right,2,Manchester City,right
+10,close-high,1,Manchester City,high
+11,close-left,1,Manchester City,left
